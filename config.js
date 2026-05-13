@@ -16,7 +16,7 @@ const config = {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61567311449154",
       "instagram": "https://www.instagram.com/therealatlasgroup",
-      "website": ""
+      "website": "https://atlasgrouprealty.ca/"
     }
   },
   "brokerage": {
