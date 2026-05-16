@@ -152,7 +152,7 @@ const config = {
     "repoName": "Open-House-945",
     "crmLeadParsingEmail": "",
     "tag": "Open House 1386 Lincoln Drive",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/6e1vj0zCa5IdQTgIJulF/webhook-trigger/1612e579-5cf9-4946-b7e7-d3bdaac447b0",
-    "sgApiKey": ""
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/6e1vj0zCa5IdQTgIJulF/webhook-trigger/5c8bfd3d-9639-4d4f-ad51-662978f3811f",
+    "sgApiKey": "api_e66852530c4898db50c8c0f4f8dc764e"
   }
 };
