@@ -1,9 +1,9 @@
 const config = {
   "property": {
-    "streetAddress": "1386 Lincoln Drive",
+    "streetAddress": "135 1386 Lincoln Drive",
     "city": "Port Coquitlam",
     "cityStateZip": "Port Coquitlam, BC  V3B7G6",
-    "heroSubtitle": "Prepare to be transformed by this stunning Townhouse that represents the pinnacle of residential design. With 2 carefully curated bedrooms, 2.5 luxurious bathrooms, and an expansive 1536 sq ft floor plan, this home is more than just a living space – it's a lifestyle statement. Every inch has been thoughtfully crafted to provide an exceptional living experience that balances aesthetic appeal with practical functionality, creating a harmonious environment that adapts to your most discerning needs.",
+    "heroSubtitle": "This isn't a \"close your eyes and imagine the potential\" kind of place. It's done. Renovated kitchen, a backyard your dog will love, 2 parking spots, and enough space for a real life.\n\nWhat you're walking into:\n- Fully renovated kitchen (actually nice, not just \"updated\")\n- Backyard ready for a BBQ\n- 2 parking spots, so you're not fighting for street parking\n- 2.5 baths, so you don't need to share\n- 1,536 sq ft of layout that actually makes sense\n\nPort Coquitlam. Lincoln Drive. Quiet street, family neighbourhood.\n\nIf it feels like home, let's talk.",
     "backgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-1386LincolnDrive1.jpg"
   },
   "realtor": {
