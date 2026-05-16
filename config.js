@@ -150,7 +150,7 @@ const config = {
   "deploymentInfo": {
     "repoId": "1237083153",
     "repoName": "Open-House-945",
-    "crmLeadParsingEmail": "",
+    "crmLeadParsingEmail": "lead_parsing@m.atlasgrouprealty.ca",
     "tag": "Open House 1386 Lincoln Drive",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/me7tB96AKcd36NuvyMuJ/webhook-trigger/RaqKrgGdcVy68t8Yd1vY",
     "sgApiKey": "api_e66852530c4898db50c8c0f4f8dc764e"
